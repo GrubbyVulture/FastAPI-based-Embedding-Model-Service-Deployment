@@ -1,0 +1,6 @@
+# 当前项⽬路径下，执⾏命令：
+python embedding_app.py
+# 测试api接口
+python embedding_test.py
+# 并发测试
+python embedding_concurrent_test.py
